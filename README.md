@@ -6,7 +6,8 @@ This is a web application that allows a user to purchase movie tickets from the 
 This is a web application that allows a user to purchase movie tickets from the theater and also it shows movies available at that day and status of availabilty of tickets and time it will be played and duration.
 
 ## Live Page
-**
+
+https://amiiinkey.github.io/week-3-code-challange/
 
 
 ## installation
