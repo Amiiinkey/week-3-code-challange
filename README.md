@@ -49,7 +49,7 @@ https://amiiinkey.github.io/week-3-code-challange/
 
 ## Author:
 
-[Kidhri Salim](https:yueyyt)
+[Mohamed Amin](https:yueyyt)
 
 
 ## License
